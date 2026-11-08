@@ -1,0 +1,386 @@
+TY  - JOUR
+AU  - Yatim, Fatima Ezzahra
+AU  - Samadi, Khaoula
+AU  - Lifi, Mohamed
+AU  - Aguilar, Fernando
+AU  - M’hamdi Alaoui, Fatima Ezzahrae
+PY  - 2026
+TI  - Alcohol-Additive Ternary Mixtures for Sustainable Fuel Formulations: Experimental Excess Molar Enthalpy and Thermodynamic Modeling
+T2  - International Journal of Thermophysics
+VL  - 47
+SP  - 32
+DO  - 10.1007/s10765-025-03682-7
+KW  - Additifs et mélanges
+N1  - Mesure les enthalpies molaires d’excès de mélanges ternaires alcool-additif et compare Redlich-Kister, NRTL, UNIQUAC et UNIFAC. Référence directement exploitable pour les interactions non idéales et la validation des modèles.
+ER  -
+
+TY  - JOUR
+AU  - Hernández, Ariel
+AU  - Cartes, Marcela
+AU  - Mejía, Andrés
+PY  - 2026
+TI  - Thermophysical characterization of a new potential bio-oxygenate fuel formed by hexane, ethanol and diethyl carbonate
+T2  - Sustainable Energy & Fuels
+VL  - 10
+SP  - 1947-1958
+DO  - 10.1039/D6SE00129G
+KW  - Additifs et mélanges
+N1  - Étudie un mélange carburant ternaire hexane-éthanol-carbonate de diéthyle. Les données VLE, viscosité dynamique et tension superficielle combinent expérimentation et prédiction moléculaire.
+ER  -
+
+TY  - JOUR
+AU  - González Prieto, Mariana
+AU  - Merlo Raimondi, Aylen
+AU  - Sánchez, Francisco Adrián
+AU  - Pereda, Selva
+PY  - 2026
+TI  - Simulation of phase equilibria properties of fuels and blends of fuels with oxygenated compounds
+T2  - Fuel
+VL  - 410
+SP  - 137864
+DO  - 10.1016/j.fuel.2025.137864
+KW  - Additifs et mélanges
+N1  - Propose un modèle prédictif pour les équilibres de phase des carburants mélangés à des composés oxygénés. Utile pour la volatilité, les courbes de distillation et la tolérance à l’eau.
+ER  -
+
+TY  - JOUR
+AU  - Geber, E.
+AU  - Rodriguez, C.
+AU  - Karathanassis, I. K.
+AU  - Lopez-Pintor, D.
+AU  - Manin, J.
+AU  - Pickett, L.
+AU  - Gavaises, M.
+PY  - 2023
+TI  - A general predictive methodology for fuel-mixture properties up to supercritical conditions
+T2  - Fluid Phase Equilibria
+VL  - 574
+SP  - 113888
+DO  - 10.1016/j.fluid.2023.113888
+KW  - Modèles thermodynamiques
+N1  - Applique PC-SAFT avec association aux mélanges alcool-carburant et à des substituts de carburants, sur des conditions larges incluant haute pression et température.
+ER  -
+
+TY  - JOUR
+AU  - Lamberg, Arttu
+AU  - Toldy, Arpad
+AU  - Keskiväli, Juha
+AU  - Karvo, Anna
+AU  - Larmi, Martti
+AU  - Santasalo-Aarnio, Annukka
+PY  - 2022
+TI  - Predicting Distillation Properties of Gasoline Fuel Blends using Machine Learning
+T2  - SAE Technical Paper
+VL  - 2022-01-1086
+DO  - 10.4271/2022-01-1086
+KW  - Apprentissage automatique
+N1  - Prédit les points de distillation E70 et E100 de mélanges d’essence à partir de leurs recettes, y compris des mélanges oxygénés. Exemple appliqué de modèles ML et de validation croisée.
+ER  -
+
+TY  - JOUR
+AU  - French, Raymond
+AU  - Malone, Patrick
+PY  - 2005
+TI  - Phase equilibria of ethanol fuel blends
+T2  - Fluid Phase Equilibria
+VL  - 228-229
+SP  - 27-40
+DO  - 10.1016/j.fluid.2004.09.012
+KW  - Additifs et mélanges
+N1  - Revue des équilibres liquide-vapeur et liquide-liquide des mélanges éthanol-essence, des effets de non-idéalité et des modèles thermodynamiques disponibles.
+ER  -
+
+TY  - JOUR
+AU  - Wagner, George
+AU  - Sandler, Stanley I.
+PY  - 1995
+TI  - Liquid-liquid equilibria of fuel oxygenate + water + hydrocarbon mixtures. 3. Effect of temperature
+T2  - Journal of Chemical & Engineering Data
+VL  - 40
+IS  - 5
+SP  - 1119-1123
+DO  - 10.1021/je00021a019
+KW  - Additifs et mélanges
+N1  - Données d’équilibre liquide-liquide de systèmes oxygéné-eau-hydrocarbure en fonction de la température. Pertinent pour la stabilité des formulations et la séparation de phases.
+ER  -
+
+TY  - JOUR
+AU  - Peng, I-Hung
+AU  - Tu, Chein-Hsiun
+PY  - 2004
+TI  - Vapor-Liquid Equilibria of Acetone, Diisopropyl Ether, Ethanol, and Methyl Ethyl Ketone with Hydrocarbon Mixtures at 101.3 kPa
+T2  - Journal of Chemical & Engineering Data
+VL  - 49
+IS  - 4
+SP  - 876-880
+DO  - 10.1021/je030232o
+KW  - Additifs et mélanges
+N1  - Mesure les équilibres liquide-vapeur de plusieurs oxygénés avec des mélanges hydrocarbonés et compare les corrélations d’équilibre. Source de données expérimentales ciblée.
+ER  -
+
+TY  - JOUR
+AU  - Ren, Yi
+AU  - Wang, Fengkun
+AU  - Huang, Zuohua
+PY  - 2007
+TI  - Densities, Surface Tensions, and Viscosities of Diesel-Oxygenate Mixtures at the Temperature 301.15 K
+T2  - Energy & Fuels
+VL  - 21
+IS  - 3
+SP  - 1628-1630
+DO  - 10.1021/ef070065o
+KW  - Données expérimentales
+N1  - Présente des mesures de densité, viscosité et tension superficielle de mélanges diesel avec divers oxygénés, ainsi que des propriétés d’excès et des corrélations.
+ER  -
+
+TY  - JOUR
+AU  - Segovia, José J.
+AU  - Villamañán, Rosa M.
+AU  - Martín, M. Carmen
+AU  - Chamorro, César R.
+AU  - Villamañán, Miguel A.
+PY  - 2010
+TI  - Thermodynamic characterization of bio-fuels: Excess functions for binary mixtures containing ETBE and hydrocarbons
+T2  - Energy
+VL  - 35
+IS  - 2
+SP  - 759-763
+DO  - 10.1016/j.energy.2009.09.025
+KW  - Données expérimentales
+N1  - Caractérise des mélanges binaires ETBE-hydrocarbures et rapporte VLE et chaleurs de mélange. Pertinent pour l’ETBE, additif oxygéné d’essence, et les fonctions d’excès.
+ER  -
+
+TY  - JOUR
+AU  - Outcalt, Stephanie L.
+AU  - Laesecke, Arno
+PY  - 2012
+TI  - Compressed-liquid densities of two highly polar plus non-polar binary systems
+T2  - Journal of Molecular Liquids
+VL  - 173
+SP  - 91-102
+DO  - 10.1016/j.molliq.2012.06.014
+KW  - Données expérimentales
+N1  - Mesure les densités comprimées d’éthanol + isooctane et de 2-butanol + isooctane, systèmes modèles pour mélanges essence-bioalcool. Large domaine de température et pression.
+ER  -
+
+TY  - JOUR
+AU  - Liu, Yuanbin
+AU  - Hong, Weixiang
+AU  - Cao, Bingyang
+PY  - 2019
+TI  - Machine learning for predicting thermodynamic properties of pure fluids and their mixtures
+T2  - Energy
+VL  - 188
+SP  - 116091
+DO  - 10.1016/j.energy.2019.116091
+KW  - Apprentissage automatique
+N1  - Développe une régression SVM pour prédire des propriétés thermodynamiques de fluides purs et de mélanges. Référence méthodologique générale, avec intérêt pour la généralisation aux mélanges.
+ER  -
+
+TY  - JOUR
+AU  - Fleitmann, Lorenz
+AU  - Ackermann, Philipp
+AU  - Schilling, Johannes
+AU  - Kleinekorte, Johanna
+AU  - Rittig, Jan G.
+AU  - vom Lehn, Florian
+AU  - Schweidtmann, Artur M.
+AU  - Pitsch, Heinz
+AU  - Leonhard, Kai
+AU  - Mitsos, Alexander
+AU  - Bardow, André
+AU  - Dahmen, Manuel
+PY  - 2023
+TI  - Molecular Design of Fuels for Maximum Spark-Ignition Engine Efficiency by Combining Predictive Thermodynamics and Machine Learning
+T2  - Energy & Fuels
+VL  - 37
+IS  - 3
+SP  - 2213-2229
+DO  - 10.1021/acs.energyfuels.2c03296
+KW  - Apprentissage automatique
+N1  - Combine COSMO-RS pour les propriétés thermodynamiques et apprentissage automatique dans la conception moléculaire de carburants purs et de mélanges avec éthanol.
+ER  -
+
+TY  - JOUR
+AU  - Sun, Jiahui
+AU  - Wang, Xiaoran
+AU  - Zhao, Wenying
+AU  - Xiang, Shuguang
+AU  - Jin, Xin
+PY  - 2024
+TI  - Evaluation of the Predictive Capability of Cubic and PC-SAFT EoS for the Thermodynamic Properties of Pure Components
+T2  - Journal of East China University of Science and Technology
+VL  - 50
+IS  - 6
+SP  - 810-816
+DO  - 10.14135/j.cnki.1006-3080.20240115001
+KW  - Modèles thermodynamiques
+N1  - Compare RK, SRK, PR et PC-SAFT pour pression de vapeur saturante, volume liquide et enthalpie de vaporisation de 382 substances. Utile pour choisir un modèle de référence pour les corps purs.
+ER  -
+
+TY  - JOUR
+AU  - Su, Yung-Chieh
+AU  - Liu, Y. A.
+AU  - Díaz Tovar, Carlos Axel
+AU  - Gani, Rafiqul
+PY  - 2011
+TI  - Selection of Prediction Methods for Thermophysical Properties for Process Modeling and Product Design of Biodiesel Manufacturing
+T2  - Industrial & Engineering Chemistry Research
+VL  - 50
+IS  - 11
+SP  - 6809-6836
+DO  - 10.1021/ie102441u
+KW  - Propriétés des biocarburants
+N1  - Passe en revue les méthodes de prédiction de propriétés thermophysiques utiles au biodiesel et à son procédé. Sert à cadrer le choix des propriétés et des corrélations.
+ER  -
+
+TY  - JOUR
+AU  - Krishnasamy, Anand
+AU  - Bukkarapu, Kiran Raj
+PY  - 2021
+TI  - A comprehensive review of biodiesel property prediction models for combustion modeling studies
+T2  - Fuel
+VL  - 302
+SP  - 121085
+DO  - 10.1016/j.fuel.2021.121085
+KW  - Propriétés des biocarburants
+N1  - Compare des modèles de prédiction des propriétés du biodiesel selon erreurs, validation, simplicité et domaine d’application. Bonne source pour bâtir une grille critique des modèles.
+ER  -
+
+TY  - JOUR
+AU  - Thangaraja, J.
+AU  - Zigan, Lars
+AU  - Rajkumar, Sundararajan
+PY  - 2023
+TI  - A machine learning framework for evaluating the biodiesel properties for accurate modeling of spray and combustion processes
+T2  - Fuel
+VL  - 334
+SP  - 126573
+DO  - 10.1016/j.fuel.2022.126573
+KW  - Apprentissage automatique
+N1  - Prédit plusieurs propriétés thermo-physiques du biodiesel selon la température et la composition FAME avec un réseau neuronal. Exemple de données composées et validation par mesures disponibles.
+ER  -
+
+TY  - JOUR
+AU  - Phankosol, Suriya
+AU  - Sudaprasert, Kaokanya
+AU  - Lilitchan, Supathra
+AU  - Aryusuk, Kornkanok
+AU  - Krisnangkura, Kanit
+PY  - 2014
+TI  - Estimation of Density of Biodiesel
+T2  - Energy & Fuels
+DO  - 10.1021/ef501031z
+KW  - Propriétés des biocarburants
+N1  - Propose des corrélations de densité du biodiesel et des esters méthyliques à partir de structure/composition et de température. Référence utile pour comparer une baseline simple aux modèles plus complexes.
+ER  -
+
+TY  - JOUR
+AU  - Singh, Aradhana
+AU  - Bharti, Randhir K.
+AU  - Kaushik, Anubha
+AU  - Dolly, Dhar
+AU  - Chauhan, Nitin
+PY  - 2026
+TI  - A comprehensive review and critical evaluation of prediction methods for biodiesel thermophysical and fuel properties
+T2  - Chemical Engineering Research and Design
+VL  - 230
+SP  - 453-482
+DO  - 10.1016/j.cherd.2026.04.038
+KW  - Propriétés des biocarburants
+N1  - Revue récente qui compile des équations de prédiction et compare les méthodes pour différentes propriétés du biodiesel. À utiliser pour actualiser l’état de l’art et identifier les limites de validation.
+ER  -
+
+TY  - WEB
+AU  - McLinden, Mark O.
+AU  - Bruno, Thomas J.
+AU  - Frenkel, Michael D.
+AU  - Huber, Marcia L.
+PY  - 2010
+TI  - Standard Reference Data for the Thermophysical Properties of Biofuels
+T2  - Journal of ASTM International
+VL  - 7
+IS  - 3
+UR  - https://www.nist.gov/publications/standard-reference-data-thermophysical-properties-biofuels
+KW  - Sources de données
+N1  - Décrit les ressources de données et modèles NIST pour composants et mélanges de biocarburants. Référence de cadrage pour les bases de données et les mélanges-surrrogates.
+ER  -
+
+TY  - JOUR
+AU  - Joback, K. G.
+AU  - Reid, R. C.
+PY  - 1987
+TI  - Estimation of Pure-Component Properties from Group-Contributions
+T2  - Chemical Engineering Communications
+VL  - 57
+IS  - 1-6
+SP  - 233-243
+DO  - 10.1080/00986448708960487
+KW  - Modèles thermodynamiques
+N1  - Méthode classique de contribution de groupes pour estimer des propriétés de corps purs à partir de la structure moléculaire. À inclure comme baseline, en discutant son domaine de validité.
+ER  -
+
+TY  - JOUR
+AU  - Frenkel, Michael
+AU  - Chirico, Robert D.
+AU  - Diky, Vladimir
+AU  - Dong, Qian
+AU  - Marsh, Kenneth N.
+AU  - Dymond, John H.
+AU  - Wakeham, William A.
+AU  - Stein, Stephen E.
+AU  - Königsberger, Erich
+AU  - Goodwin, Anthony R. H.
+PY  - 2006
+TI  - XML-based IUPAC standard for experimental, predicted, and critically evaluated thermodynamic property data storage and capture (ThermoML)
+T2  - Pure and Applied Chemistry
+VL  - 78
+IS  - 3
+SP  - 541-612
+DO  - 10.1351/pac200678030541
+KW  - Sources de données
+N1  - Recommandation IUPAC décrivant ThermoML, format XML pour documenter propriétés thermodynamiques expérimentales, prédites ou évaluées, avec substances, mélanges, conditions et unités.
+ER  -
+
+TY  - WEB
+AU  - Linstrom, Peter J.
+AU  - Mallard, William G.
+PY  - 2010
+TI  - NIST Chemistry WebBook, SRD 69: Thermophysical Properties of Fluid Systems
+T2  - NIST Standard Reference Database 69
+UR  - https://webbook.nist.gov/chemistry/fluid/
+KW  - Sources de données
+N1  - Base de référence pour certaines propriétés thermophysiques de fluides purs (densité, Cp, viscosité, enthalpie, conductivité, etc.). La couverture est limitée aux espèces et propriétés disponibles; citer la donnée source consultée.
+ER  -
+
+TY  - JOUR
+AU  - Comesana, Ana E.
+AU  - Chen, Sharon S.
+AU  - Niemeyer, Kyle E.
+AU  - Rapp, Vi H.
+PY  - 2026
+TI  - A structured framework for predicting sustainable aviation fuel properties using liquid-phase FTIR and machine learning
+T2  - Fuel
+VL  - 408
+DO  - 10.1016/j.fuel.2025.137588
+KW  - Apprentissage automatique
+N1  - Présente des modèles interprétables utilisant spectres FTIR et ML pour prédire des propriétés de molécules, carburants et mélanges. Référence connexe pour la construction de jeux de données et la validation multi-mélanges.
+ER  -
+
+TY  - JOUR
+AU  - Frenkel, Michael
+AU  - Chirico, Robert D.
+AU  - Diky, Vladimir
+AU  - Yan, Xinjian
+AU  - Dong, Qian
+AU  - Muzny, Chris
+PY  - 2005
+TI  - ThermoData Engine (TDE): Software Implementation of the Dynamic Data Evaluation Concept
+T2  - Journal of Chemical Information and Modeling
+VL  - 45
+IS  - 4
+SP  - 816-838
+DO  - 10.1021/ci050067b
+KW  - Sources de données
+N1  - Décrit l’évaluation dynamique de données thermodynamiques et la traçabilité des valeurs recommandées. Référence utile pour comprendre les données évaluées et leur provenance.
+ER  -
