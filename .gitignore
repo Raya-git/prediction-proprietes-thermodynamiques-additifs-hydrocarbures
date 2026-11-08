@@ -1,0 +1,18 @@
+# Fichiers temporaires et systèmes
+Thumbs.db
+.DS_Store
+~$*
+*.tmp
+
+# Environnements et caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Données et résultats volumineux : ajouter au dépôt seulement après vérification
+# des droits de réutilisation et de la taille.
+data/raw/*
+!data/raw/README.md
+results/*
+!results/README.md
