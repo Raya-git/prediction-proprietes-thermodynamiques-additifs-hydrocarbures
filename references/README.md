@@ -1,6 +1,6 @@
 # Bibliothèque bibliographique
 
-Cette bibliographie porte sur la prédiction des propriétés thermodynamiques des substances pures et des mélanges utilisés comme additifs aux carburants et hydrocarbures. Elle reprend les 25 notices du fichier RIS associé au travail Zotero. Le fichier `bibliographie_zotero.ris` est importable dans Zotero ; les annotations ci-dessous reprennent les notes enregistrées dans les notices.
+Cette bibliographie porte sur la prédiction des propriétés thermodynamiques des substances pures et des mélanges utilisés comme additifs aux carburants et hydrocarbures. Elle reprend les 25 notices du fichier RIS associé au travail Zotero. Le fichier [bibliographie_zotero.ris](bibliographie_zotero.ris) est importable dans Zotero ; les annotations ci-dessous reprennent les notes enregistrées dans les notices.
 
 Les références sont regroupées selon leurs mots-clés Zotero. Les annotations résument l’intérêt de chaque source pour le sujet ; elles ne remplacent pas la lecture de l’article.
 
