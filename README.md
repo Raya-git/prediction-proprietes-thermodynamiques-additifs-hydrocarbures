@@ -20,11 +20,20 @@ Depot_Git_prediction_thermodynamique_additifs/
 ├── data/
 │   ├── README.md
 │   ├── raw/README.md
-│   ├── processed/README.md
-│   └── templates/proprietes_thermodynamiques.csv
-├── references/README.md
-├── scripts/README.md
-└── results/README.md
+│   ├── processed/
+│   │   ├── README.md
+│   │   └── yatim_2026_22MEE_enthalpie_exces.csv
+│   └── templates/
+│       ├── README.md
+│       ├── dictionnaire_colonnes.md
+│       └── proprietes_thermodynamiques.csv
+├── references/
+│   ├── README.md
+│   └── bibliographie_zotero.ris
+├── results/
+│   ├── README.md
+│   └── enthalpie_exces_max_litterature.csv
+└── scripts/README.md
 ```
 
 ## Organisation des données
