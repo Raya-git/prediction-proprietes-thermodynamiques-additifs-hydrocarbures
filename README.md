@@ -49,4 +49,8 @@ Cette structure est un point de départ à compléter au fur et à mesure de l�
 
 ## Licence
 
-La licence MIT s’applique aux scripts et éléments originaux de code de ce dépôt. Le nom de l’auteur est à compléter dans le fichier `LICENSE`. Elle ne s’étend pas automatiquement aux données, articles, figures ou contenus provenant de tiers, qui restent soumis à leurs propres conditions de réutilisation.
+La licence MIT s’applique aux scripts et éléments originaux de code de ce dépôt, sous l’attribution `Raya-git` indiquée dans `LICENSE`. Elle ne s’étend pas automatiquement aux données, articles, figures ou contenus provenant de tiers, qui restent soumis à leurs propres conditions de réutilisation.
+
+## Note sur la préparation du dépôt
+
+La structure et les textes de départ ont été préparés avec l’aide d’un assistant d’intelligence artificielle. Ils constituent un cadre de travail : les choix scientifiques, les méthodes, les références et les données devront être vérifiés et complétés par l’autrice du projet avant toute utilisation dans un travail de recherche.
