@@ -1,7 +1,6 @@
 # Résultats
 
-Ce dossier contient les résultats légers du projet et les informations nécessaires pour les retrouver et les reproduire. Chaque résultat doit préciser sa date, la méthode, les paramètres, les versions des données et des scripts utilisés, ainsi que les références bibliographiques utiles.
-
+Ce dossier contient les résultats légers du projet et les informations nécessaires pour les retrouver et les reproduire.
 ## Résultats issus de la littérature — 2026-11-08
 
 Le fichier [`enthalpie_exces_max_litterature.csv`](enthalpie_exces_max_litterature.csv) rassemble huit valeurs publiées pour l’enthalpie molaire d’excès de mélanges ternaires d’éthers glycoliques, de 1-butanol et d’éthanol, à 298.15 K et 313.15 K. Ce sont des résultats expérimentaux rapportés dans la littérature, pas des prédictions réalisées dans le présent projet.
@@ -31,7 +30,3 @@ Fichiers de sortie légers (chemins) :
 Contrôles / limites :
 Fichiers volumineux associés : nom, emplacement, taille et moyen d’accès
 ```
-
-## Formats et fichiers volumineux
-
-Privilégier les sorties légères et réutilisables : tableaux CSV, notes Markdown et graphiques PNG ou SVG. Nommer les fichiers de façon descriptive, par exemple `AAAA-MM-JJ_propriete_methode.csv`.
