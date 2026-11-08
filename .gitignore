@@ -16,3 +16,5 @@ data/raw/*
 !data/raw/README.md
 results/*
 !results/README.md
+# Résumé léger des valeurs publiées, avec provenance et conditions documentées
+!results/enthalpie_exces_max_litterature.csv

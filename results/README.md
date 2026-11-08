@@ -2,21 +2,17 @@
 
 Ce dossier contient les résultats légers du projet et les informations nécessaires pour les retrouver et les reproduire. Chaque résultat doit préciser sa date, la méthode, les paramètres, les versions des données et des scripts utilisés, ainsi que les références bibliographiques utiles.
 
-## État initial du projet — 2026-11-08
+## Résultats issus de la littérature — 2026-11-08
 
-À la date de cet inventaire, aucun résultat de prédiction thermodynamique n’est encore disponible dans le dépôt. Aucun jeu de données réel n’est présent dans `data/raw/` ou `data/processed/`, et aucun script d’analyse ou de prédiction n’est encore fourni dans `scripts/`. Le fichier `data/templates/proprietes_thermodynamiques.csv` est un gabarit de saisie : son en-tête décrit les champs prévus, mais il ne contient pas d’observations expérimentales.
+Le fichier [`enthalpie_exces_max_litterature.csv`](enthalpie_exces_max_litterature.csv) rassemble huit valeurs publiées pour l’enthalpie molaire d’excès de mélanges ternaires d’éthers glycoliques, de 1-butanol et d’éthanol, à 298.15 K et 313.15 K. Ce sont des résultats expérimentaux rapportés dans la littérature, pas des prédictions réalisées dans le présent projet.
 
-Ce constat décrit l’état du dépôt ; il ne constitue pas un résultat scientifique. Il est consigné pour distinguer clairement les livrables préparatoires des résultats qui seront produits après l’ajout et la vérification des données.
+**Méthode et conditions rapportées par l’article :** calorimètre à flux quasi-isotherme ; pression de 0.1 MPa ; températures de 298.15 et 313.15 K. L’article indique une incertitude-type sur la composition molaire de 0.0008 et une incertitude relative élargie de 1 % (k = 2) sur l’enthalpie molaire d’excès. Les valeurs du CSV correspondent aux maxima tabulés de \(H_{123}^{E}\) ; la colonne `x2_sur_x3` identifie le rapport de composition de la série expérimentale. Les données originales restent celles des Tableaux 5 et 6 de l’article.
 
-| Élément | Information consignée |
-|---|---|
-| Date de l’inventaire | 2026-11-08 |
-| Méthode | Vérification de la structure du dépôt et des contenus présents dans `data/raw/`, `data/processed/`, `data/templates/` et `scripts/` |
-| Paramètres de calcul | Sans objet : aucun calcul ni modèle n’a été exécuté |
-| Données examinées | `data/templates/proprietes_thermodynamiques.csv` (en-tête seulement) ; aucun jeu de données réel examiné |
-| Script utilisé | Aucun |
-| Référence bibliographique | Aucune source scientifique utilisée pour cet inventaire documentaire |
-| Conclusion | Résultats numériques à produire ultérieurement, après sélection et documentation des données, de la propriété et de la méthode de prédiction |
+**Référence :** Yatim, F. E. et al. (2026), *Alcohol–Additive Ternary Mixtures for Sustainable Fuel Formulations: Experimental Excess Molar Enthalpy and Thermodynamic Modeling*, *International Journal of Thermophysics*, 47, 32. [Article et PDF éditeur](https://doi.org/10.1007/s10765-025-03682-7). Le tableau 6 a fait l’objet d’une correction publiée le 21 mars 2026 concernant son en-tête d’unité : [notice de correction](https://doi.org/10.1007/s10765-026-03716-8).
+
+**Précaution de transcription :** le texte de l’article donne « 315.15 K » pour les maxima de 22MEE et 2-PhE, alors que les Tableaux 6 et 8 indiquent 313.15 K. Le CSV suit l’en-tête du Tableau 6 et signale cette différence dans les notes. Les compositions détaillées \(x_2\) et \(x_3\) ne sont pas recalculées ici ; la fraction additive \(x_1\) et le rapport \(x_2/x_3\) du tableau sont conservés.
+
+Cette transcription constitue un résumé documentaire reproductible à partir des tableaux publiés. Aucun script n’a été utilisé pour la transcription, aucun modèle n’a été exécuté par le projet, et aucune prédiction propre au projet n’est encore disponible. Les données sources de l’article sont publiées sous licence CC BY 4.0 ; consulter la licence et la notice de correction avant toute réutilisation.
 
 ## Fiche à renseigner pour chaque résultat futur
 
