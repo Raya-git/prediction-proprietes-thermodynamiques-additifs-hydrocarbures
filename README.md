@@ -46,3 +46,7 @@ Les fichiers volumineux, les fichiers personnels et les données soumises à des
 ## État du projet
 
 Cette structure est un point de départ à compléter au fur et à mesure de l’avancement du travail. Les substances, propriétés et méthodes retenues seront précisées dans la documentation du projet.
+
+## Licence
+
+La licence MIT s’applique aux scripts et éléments originaux de code de ce dépôt. Le nom de l’auteur est à compléter dans le fichier `LICENSE`. Elle ne s’étend pas automatiquement aux données, articles, figures ou contenus provenant de tiers, qui restent soumis à leurs propres conditions de réutilisation.
