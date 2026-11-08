@@ -12,11 +12,9 @@ Le fichier [`enthalpie_exces_max_litterature.csv`](enthalpie_exces_max_litteratu
 
 **Précaution de transcription :** le texte de l’article donne « 315.15 K » pour les maxima de 22MEE et 2-PhE, alors que les Tableaux 6 et 8 indiquent 313.15 K. Le CSV suit l’en-tête du Tableau 6 et signale cette différence dans les notes. Les compositions détaillées \(x_2\) et \(x_3\) ne sont pas recalculées ici ; la fraction additive \(x_1\) et le rapport \(x_2/x_3\) du tableau sont conservés.
 
-Cette transcription constitue un résumé documentaire reproductible à partir des tableaux publiés. Aucun script n’a été utilisé pour la transcription, aucun modèle n’a été exécuté par le projet, et aucune prédiction propre au projet n’est encore disponible. Les données sources de l’article sont publiées sous licence CC BY 4.0 ; consulter la licence et la notice de correction avant toute réutilisation.
+Cette transcription constitue un résumé documentaire reproductible à partir des tableaux publiés. Les données sources de l’article sont publiées sous licence CC BY 4.0 ; consulter la licence et la notice de correction avant toute réutilisation.
 
 ## Fiche à renseigner pour chaque résultat futur
-
-Copier cette fiche dans un nouveau fichier, par exemple `AAAA-MM-JJ_propriete_methode.md`, puis remplacer les champs entre crochets. Ne pas inscrire de valeurs prévisionnelles ou fictives comme si elles avaient été calculées.
 
 ```text
 Identifiant et titre :
@@ -37,5 +35,3 @@ Fichiers volumineux associés : nom, emplacement, taille et moyen d’accès
 ## Formats et fichiers volumineux
 
 Privilégier les sorties légères et réutilisables : tableaux CSV, notes Markdown et graphiques PNG ou SVG. Nommer les fichiers de façon descriptive, par exemple `AAAA-MM-JJ_propriete_methode.csv`.
-
-Ne pas déposer dans GitHub les fichiers volumineux ou soumis à restriction. Les conserver dans un espace de stockage adapté et accessible au projet (par exemple le stockage institutionnel autorisé), puis documenter ici, dans la fiche correspondante, leur nom, leur emplacement, leur taille, leur date de dépôt et les conditions d’accès. Aucun fichier volumineux n’est actuellement référencé.
