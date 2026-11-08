@@ -1,9 +1,6 @@
 # Bibliothèque bibliographique
 
-Cette bibliographie porte sur la prédiction des propriétés thermodynamiques des substances pures et des mélanges utilisés comme additifs aux carburants et hydrocarbures. Elle reprend les 25 notices du fichier RIS associé au travail Zotero. Le fichier [bibliographie_zotero.ris](bibliographie_zotero.ris) est importable dans Zotero ; les annotations ci-dessous reprennent les notes enregistrées dans les notices.
-
-Les références sont regroupées selon leurs mots-clés Zotero. Les annotations résument l’intérêt de chaque source pour le sujet ; elles ne remplacent pas la lecture de l’article.
-
+Cette bibliographie porte sur la prédiction des propriétés thermodynamiques des substances pures et des mélanges utilisés comme additifs aux carburants et hydrocarbures.
 ## Additifs et mélanges
 
 **1. Yatim, Fatima Ezzahra; Samadi, Khaoula; Lifi, Mohamed; Aguilar, Fernando; M’hamdi Alaoui, Fatima Ezzahrae (2026).** *Alcohol-Additive Ternary Mixtures for Sustainable Fuel Formulations: Experimental Excess Molar Enthalpy and Thermodynamic Modeling*. *International Journal of Thermophysics*, vol. 47, art. 32.
